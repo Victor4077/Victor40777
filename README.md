@@ -1,6 +1,6 @@
-# Victor40777
-# Víctor Augusto Vivas Segovia  
-### Ingeniero Químico | Análisis de Datos | Machine Learning  
+
+# Hola, soy Víctor Augusto Vivas Segovia  
+### Ingeniero Químico | Especialización en Data-Driven Decisions (ESPOL)  
 
 📍 Guayaquil, Ecuador  
 🎓 ESPOL – Ingeniería Química  
