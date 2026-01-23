@@ -39,69 +39,13 @@ Me interesa colaborar en proyectos **open source 🌍**, especialmente aquellos 
 
 ## 🚀 Proyectos Destacados
 
-### 1️⃣ Retail Business Intelligence
-**📌 Descripción:**  
-Proyecto académico enfocado en el análisis del comportamiento de clientes y el rendimiento de ventas en el sector retail, utilizando herramientas de análisis en Excel.
+### 1️⃣ Excel - Retail Business Intelligence : Dashboards con Excel avanzado para ventas, ROI y clientes.
 
-**🛠️ Tech stack:**  
-Dashboards desarrollados con Excel avanzado para el seguimiento de ventas, rentabilidad y comportamiento de clientes.
+### 2️⃣ SQL - Análisis de Datos de Competencias Esports : SQL para identificar patrones y tendencias dentro del mundo competitivo de los videojuegos.
 
-**✨ Características principales:**
-- 📊 Análisis del desempeño comercial de una red de tiendas minoristas  
-- 🛒 Identificación de patrones de consumo y comportamiento del cliente  
-- 📑 Evaluación de la gestión operativa y comunicación de resultados a nivel ejecutivo  
+### 3️⃣ Python - SmartBank : 	Evaluación del comportamiento de clientes ante campañas bancarias para identificar factores que influyen en la aceptación de productos financieros.
 
----
-
-### 2️⃣ Análisis de Datos de Competencias Esports
-**📌 Descripción:**  
-Diseño de una base de datos orientada al análisis de competencias esports, permitiendo detectar tendencias y apoyar la toma de decisiones en entornos competitivos.
-
-**🛠️ Tech stack:**  
-SQL para consulta, análisis y detección de tendencias.
-
-**✨ Características principales:**
-- 🗃️ Diseño de base de datos para registrar competencias, equipos y jugadores  
-- 📈 Generación de reportes sobre el desempeño individual y colectivo  
-- 🔍 Identificación de tendencias en resultados competitivos  
-
----
-
-### 3️⃣ SmartBank
-**📌 Descripción:**  
-Análisis del comportamiento de clientes frente a campañas bancarias con el objetivo de identificar factores que influyen en la aceptación de productos financieros.
-
-**🛠️ Tech stack:**  
-Python utilizando Pandas, NumPy, Matplotlib y Seaborn.
-
-**✨ Características principales:**
-- 🧹 Limpieza y exploración de datos de campañas bancarias  
-- 👥 Segmentación de clientes y análisis de patrones  
-- 💰 Estudio del comportamiento en la toma de decisiones financieras  
-
----
-
-### 4️⃣ Sausinc
-**📌 Descripción:**  
-Propuesta de solución basada en datos para una problemática identificada dentro de una empresa ecuatoriana.
-
-**🛠️ Tech stack:**  
-Implementación y seguimiento de KPI’s.
-
-**✨ Características principales:**
-- 🧩 Identificación de problemas clave dentro de la organización  
-- 📐 Definición de indicadores de desempeño  
-- 📊 Desarrollo de una propuesta de valor basada en análisis operativo  
-
----
-
-## 🎯 Objetivos para este año
-
-- 📚 Ampliar conocimientos en áreas nuevas y desconocidas  
-- 🧪 Aplicar de manera práctica habilidades de análisis de datos  
-- ⚡ Optimizar mis métodos de aprendizaje para ser más eficiente  
-
----
+### 4️⃣ Sausinc : implementación de metodología de BI, KPIs y análisis de datos
 
 ## 📈 Estadísticas de GitHub
 
